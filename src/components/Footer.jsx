@@ -24,15 +24,15 @@ function Footer() {
      
     <div class="ul-container"> 
   
-    <div><a href="#" >Terms and Conditions</a></div> 
+    <div><a href="/" >Terms and Conditions</a></div> 
    
-    <div><a href="#" >Privacy</a></div>
+    <div><a href="/" >Privacy</a></div>
   
-     <div><a href="#" >Cookies</a></div>
+     <div><a href="/" >Cookies</a></div>
   
-     <div><a href="#" >Refund</a></div>
+     <div><a href="/" >Refund</a></div>
   
-    <div><a href="#" >License</a></div>
+    <div><a href="/" >License</a></div>
     </div>
     </div>
 
@@ -48,13 +48,13 @@ function Footer() {
 
     <div class=" ul-container1"> 
  
-  <a href="#" ><IoLogoInstagram className='media' /></a>
+  <a href="/" ><IoLogoInstagram className='media' /></a>
  
-  <a href="#" ><FaXTwitter className='media' /></a>
+  <a href="/" ><FaXTwitter className='media' /></a>
  
-  <a href="#" ><FaWhatsapp className='media' /></a>
+  <a href="/" ><FaWhatsapp className='media' /></a>
  
-  <a href="#" ><RiTiktokFill className='media'/></a>
+  <a href="/" ><RiTiktokFill className='media'/></a>
 
  </div>
   </div>
@@ -65,18 +65,3 @@ function Footer() {
 
 export default Footer;
 
-
-{/* <div class="d-flex mb-3">
-  <div class="p-2">Flex item</div>
-  <div class="p-2">Flex item</div>
-  <div class="ms-auto p-2">Flex item</div>
-</div> */}
-
-
-{/* <div class="d-flex justify-content-md-between footer-cont">
-      <div class="row"><div class="col-auto me-auto"> 
-      
-      </div>
-    <div class="col-auto"></div>
-     </div>
-     </div> */}

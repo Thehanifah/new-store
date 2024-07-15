@@ -79,7 +79,7 @@ function App() {
         <div className="App">
           <Navbar products={products} onSearchStateChange={setIsSearching} onSearch={handleSearch} />
           <Routes>
-          <Route exact path="/" element={<Homepage products={products} isSearching={isSearching} filteredProducts={filteredProducts} setFilteredProducts ={setFilteredProducts} />} />
+          <Route  path="/" element={<Homepage products={products} isSearching={isSearching} filteredProducts={filteredProducts} setFilteredProducts ={setFilteredProducts} />} />
             <Route path="/shop" element={<Shop products={products} />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/checkout" element={<CheckoutForm />} />
